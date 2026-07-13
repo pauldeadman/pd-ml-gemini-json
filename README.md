@@ -19,7 +19,10 @@ onto ungreased baking sheets and bake for 9 to 11 minutes.
 
 create environment variable GEMINI_API_KEY with token before running
 
+```
 export GEMINI_API_KEY=AQ........
+```
+
 ```
 curl -X POST "https://generativelanguage.googleapis.com/v1beta/interactions" \
     -H "x-goog-api-key: $GEMINI_API_KEY" \
