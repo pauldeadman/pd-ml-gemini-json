@@ -1,4 +1,4 @@
-# Extract Ingredients and Recipe using Gemini 3.5 Flash
+# Extract as JSON Ingredients and Recipe using Gemini 3.5 Flash
 
 ## Sample test data
 
