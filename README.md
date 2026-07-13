@@ -68,25 +68,25 @@ curl -X POST "https://generativelanguage.googleapis.com/v1beta/interactions" \
 ```
 {"content":[{"text":
 "{
-\"recipe_name\":\"Delicious Chocolate Chip Cookies\",
-\"ingredients\": [ 
-  {\"name\":\"all-purpose flour\",\"quantity\":\"2 1/4 cups\"},
-  {\"name\":\"baking soda\",\"quantity\":\"1 teaspoon\"},
-  {\"name\":\"salt\",\"quantity\":\"1 teaspoon\"},
-  {\"name\":\"unsalted butter (softened)\",\"quantity\":\"1 cup\"},
-  {\"name\":\"granulated sugar\",\"quantity\":\"3/4 cup\"},
-  {\"name\":\"packed brown sugar\",\"quantity\":\"3/4 cup\"},
-  {\"name\":\"vanilla extract\",\"quantity\":\"1 teaspoon\"},
-  {\"name\":\"large eggs\",\"quantity\":\"2\"},
-  {\"name\":\"semisweet chocolate chips\",\"quantity\":\"2 cups\"}],
-\"instructions\":[
-  \"Preheat the oven to 375°F (190°C).\",
-  \"In a small bowl, whisk together the flour, baking soda, and salt.\",
-  \"In a large bowl, cream together the butter, granulated sugar, and brown sugar until light and fluffy.\",
-  \"Beat in the vanilla and eggs, one at a time.\",
-  \"Gradually beat in the dry ingredients until just combined.\",
-  \"Stir in the chocolate chips.\",
-  \"Drop by rounded tablespoons onto ungreased baking sheets and bake for 9 to 11 minutes.\"]
+"recipe_name":"Delicious Chocolate Chip Cookies",
+"ingredients": [ 
+  {"name":"all-purpose flour","quantity":"2 1/4 cups"},
+  {"name":"baking soda","quantity":"1 teaspoon"},
+  {"name":"salt","quantity":"1 teaspoon"},
+  {"name":"unsalted butter (softened)","quantity":"1 cup"},
+  {"name":"granulated sugar","quantity":"3/4 cup"},
+  {"name":"packed brown sugar","quantity":"3/4 cup"},
+  {"name":"vanilla extract","quantity":"1 teaspoon"},
+  {"name":"large eggs","quantity":"2"},
+  {"name":"semisweet chocolate chips","quantity":"2 cups"}],
+"instructions":[
+  "Preheat the oven to 375°F (190°C).",
+  "In a small bowl, whisk together the flour, baking soda, and salt.",
+  "In a large bowl, cream together the butter, granulated sugar, and brown sugar until light and fluffy.",
+  "Beat in the vanilla and eggs, one at a time.",
+  "Gradually beat in the dry ingredients until just combined.",
+  "Stir in the chocolate chips.",
+  "Drop by rounded tablespoons onto ungreased baking sheets and bake for 9 to 11 minutes."]
 }
 ,"type":"text"}],"type":"model_output"}
 ```
